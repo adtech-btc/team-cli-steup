@@ -2,17 +2,11 @@
 
 Complete OpenCode configuration with oh-my-opencode, Antigravity auth, and OpenAI Codex auth.
 
-## For LLM Agents
-
-Run this command to auto-install:
+## Quick Install
 
 ```bash
-# Install everything automatically
 curl -s https://raw.githubusercontent.com/adtech-btc/team-cli-steup/main/install.sh | bash
 ```
-
-Or tell your AI agent:
-> "Install OpenCode team config from https://raw.githubusercontent.com/adtech-btc/team-cli-steup/main/README.md"
 
 ---
 
