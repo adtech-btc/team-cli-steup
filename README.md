@@ -8,11 +8,11 @@ Run this command to auto-install:
 
 ```bash
 # Install everything automatically
-curl -s https://raw.githubusercontent.com/adtech-crypto/cli-team-setup/main/opencode/install.sh | bash
+curl -s https://raw.githubusercontent.com/adtech-btc/team-cli-steup/main/install.sh | bash
 ```
 
 Or tell your AI agent:
-> "Install OpenCode team config from https://raw.githubusercontent.com/adtech-crypto/cli-team-setup/main/opencode/README.md"
+> "Install OpenCode team config from https://raw.githubusercontent.com/adtech-btc/team-cli-steup/main/README.md"
 
 ---
 
