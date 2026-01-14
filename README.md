@@ -2,15 +2,7 @@
 
 Complete OpenCode configuration with oh-my-opencode, Antigravity auth, and OpenAI Codex auth.
 
-## Quick Install
-
-```bash
-curl -s https://raw.githubusercontent.com/adtech-btc/team-cli-steup/main/install.sh | bash
-```
-
----
-
-## Manual Installation
+## Installation
 
 ### 0. Install OpenCode
 
